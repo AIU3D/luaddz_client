@@ -1,4 +1,5 @@
 publish
+simulator
 frameworks/runtime-src/proj.win32/Debug.win32
 frameworks/runtime-src/proj.android/bin/
 frameworks/runtime-src/proj.android/obj/
@@ -7,3 +8,12 @@ frameworks/runtime-src/proj.android/gen
 frameworks/cocos2d-x/cocos/platform/android/java/bin
 frameworks/cocos2d-x/cocos/platform/android/java/gen
 frameworks/runtime-src/proj.android/libs/armeabi/libcocos2dlua.so
+frameworks/runtime-src/proj.win32/luaddz.opensdf
+frameworks/runtime-src/proj.win32/luaddz.sdf
+frameworks/runtime-src/proj.win32/luaddz.v12.suo
+frameworks/cocos2d-x/external/recast/proj.win32/Debug.win32
+frameworks/cocos2d-x/external/bullet/proj.win32/Debug.win32
+frameworks/cocos2d-x/external/Box2D/proj.win32/Debug.win32
+frameworks/cocos2d-x/cocos/scripting/lua-bindings/proj.win32/Debug.win32
+frameworks/cocos2d-x/cocos/editor-support/spine/proj.win32/Debug.win32
+frameworks/cocos2d-x/cocos/2d/Debug.win32

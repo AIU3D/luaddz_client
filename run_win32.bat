@@ -1,0 +1,1 @@
+simulator\win32\luaddz.exe %~dp0

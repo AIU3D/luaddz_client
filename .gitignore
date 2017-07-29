@@ -1,0 +1,9 @@
+publish
+frameworks/runtime-src/proj.win32/Debug.win32
+frameworks/runtime-src/proj.android/bin/
+frameworks/runtime-src/proj.android/obj/
+frameworks/runtime-src/proj.android/assets
+frameworks/runtime-src/proj.android/gen
+frameworks/cocos2d-x/cocos/platform/android/java/bin
+frameworks/cocos2d-x/cocos/platform/android/java/gen
+frameworks/runtime-src/proj.android/libs/armeabi/libcocos2dlua.so

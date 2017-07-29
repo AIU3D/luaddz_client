@@ -3,10 +3,29 @@
   <SolutionFolder>
     <Group ctype="ResourceGroup">
       <RootFolder Name=".">
-        <Image Name="HelloWorld.png" />
-        <Project Name="MainScene.csd" Type="Scene" />
-        <Folder Name="login" />
+        <Folder Name="fonts">
+          <TTF Name="DFYuanW7-GB2312.ttf" />
+        </Folder>
         <Folder Name="hall" />
+        <Folder Name="login">
+          <Image Name="login_bg.jpg" />
+          <Image Name="login_btn_guest.png" />
+          <Image Name="login_btn_wx_normal.png" />
+          <Image Name="login_btn_wx_pressed.png" />
+          <Image Name="login_checkbox_bg.png" />
+          <Image Name="login_checkbox_selected.png" />
+          <Image Name="login_company_logo.png" />
+          <Image Name="login_logo.png" />
+          <Image Name="login_radiobutton_bg.png" />
+          <Image Name="login_radiobutton_selected.png" />
+          <Image Name="login_username_bg.png" />
+          <Image Name="update_progress_bg.png" />
+          <Image Name="update_progress_fore.png" />
+          <Image Name="update_sign_sprite.png" />
+        </Folder>
+        <Folder Name="scene">
+          <Project Name="login.csd" Type="Scene" />
+        </Folder>
       </RootFolder>
     </Group>
   </SolutionFolder>
